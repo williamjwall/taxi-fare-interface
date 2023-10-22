@@ -1,6 +1,6 @@
 # NY Taxi Fare prediction interface
 
-![](images/snapshot.png)
+![](images/ny_taxi.png)
 
 ## Setup
 
